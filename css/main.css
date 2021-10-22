@@ -1,0 +1,31 @@
+* {
+	box-sizing: border-box;
+}
+
+
+.module {
+	border-right: 1px solid #676767;
+	cursor: pointer;
+	padding: 10px;
+}
+
+.summ {
+	background-color: #fff;
+	border-radius: 5px;
+}
+
+.dash {
+	margin-top: 10px;
+}
+
+.mbtn {
+	margin-left: 4px;
+	margin-right: 4px;
+}
+
+section.jumbotron.jumbotron-fluid {
+	margin-bottom: 10px;
+	padding: 10px 0;
+	background-color: #fff;
+
+}
